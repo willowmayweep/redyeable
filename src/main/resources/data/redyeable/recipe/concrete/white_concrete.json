@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "#redyeable:concrete",
+        "minecraft:white_dye"
+    ],
+    "result": {
+        "id": "minecraft:white_concrete",
+        "count": 1
+    }
+}

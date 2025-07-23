@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "stained_glass_pane",
+    "category": "building",
+    "ingredients": [
+        "#redyeable:glass_pane",
+        "minecraft:yellow_dye"
+    ],
+    "result": {
+        "id": "minecraft:yellow_stained_glass_pane",
+        "count": 1
+    }
+}

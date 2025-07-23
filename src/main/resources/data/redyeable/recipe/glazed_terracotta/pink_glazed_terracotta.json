@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "#redyeable:glazed_terracotta",
+        "minecraft:pink_dye"
+    ],
+    "result": {
+        "id": "minecraft:pink_glazed_terracotta",
+        "count": 1
+    }
+}

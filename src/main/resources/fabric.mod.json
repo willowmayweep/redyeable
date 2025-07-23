@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "redyeable",
+	"version": "1.0.0",
+	"name": "Redyeable",
+	"description": "Makes dyeing blocks like glass and terracotta easier.",
+	"authors": [
+		"willowmayweep"
+	],
+	"license": "MIT",
+	"icon": "assets/redyeable/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"willowmayweep.redyeable.Redyeable"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.7",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

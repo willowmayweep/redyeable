@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "#redyeable:concrete",
+        "minecraft:lime_dye"
+    ],
+    "result": {
+        "id": "minecraft:lime_concrete",
+        "count": 1
+    }
+}
