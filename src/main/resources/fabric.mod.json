@@ -1,12 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "redyeable",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Redyeable",
 	"description": "Makes dyeing blocks like glass and terracotta easier.",
 	"authors": [
 		"willowmayweep"
 	],
+	"contact": {
+		"homepage": "https://github.com/willowmayweep/redyeable",
+		"issues": "https://github.com/willowmayweep/redyeable/issues",
+		"sources": "https://github.com/willowmayweep/redyeable"
+	},
 	"license": "MIT",
 	"icon": "assets/redyeable/icon.png",
 	"environment": "*",
